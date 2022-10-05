@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## hello-rails-react
+## hello-react-frontend
 
 > Create a rails api that will be used with
 this react app : https://github.com/brahimdidi/hello-react-frontend/pull/1
-frontend : https://github.com/brahimdidi/hello-react-frontend
+backend : https://github.com/brahimdidi/hello-rails-backend
 
 ## Built With
 
