@@ -7,12 +7,11 @@ export default function Greeting() {
     const message = useSelector(selectGreeting);
     useEffect(() => {
      dispatch(fetchGreeting());
-    });
+    },[]);
 
     return (
         <div>
-            <div>this will show many greeting </div>
             <h1>Greeting: {message.greeting}</h1>
         </div>
-    );
+    );  
 }
